@@ -1,3 +1,8 @@
+### outdated
+### for testing only
+### no warranty
+---------------------------
+
 # itesa111b
 
 Code Repo for IT ESA 111 B.
